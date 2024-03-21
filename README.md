@@ -1,11 +1,11 @@
 <div id="header" align="center">
-<h2>Just a student trying to survive...</h2>
-<p>Hi, I'm Bratee Podder, a CS Student @ GeorgiaTech trying to build fun projects!</p>
+	<h2>Just a student trying to survive...</h2>
+	<p>Hi, I'm Bratee Podder, a CS Student @ GeorgiaTech trying to build fun projects!</p>
 </div>
 
 <div id="image" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThqZmx3NXJqYmtkcmk4dXc0bzdzbDRkOHF2dWRvbjh3MmZhNzZ3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kLGihj2dYiOAusaN2G/giphy.gif"
-    </div>
+	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThqZmx3NXJqYmtkcmk4dXc0bzdzbDRkOHF2dWRvbjh3MmZhNzZ3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kLGihj2dYiOAusaN2G/giphy.gif"
+</div>
 
 <!--
 **brateepodder/brateepodder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
