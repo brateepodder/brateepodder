@@ -1,4 +1,9 @@
-### Hi there 👋
+#Just a student trying to survive...
+##Hi, I'm Bratee Podder, a CS Student @ GeorgiaTech trying to build fun projects!
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpoc3dhcW1ibXU4NjdwOW9vNGhjbWx1bjBibzU4cHh0ZXFuYWRheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"
+    </div>
 
 <!--
 **brateepodder/brateepodder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
