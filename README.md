@@ -1,4 +1,4 @@
-<h1>Just a student trying to survive...</h1>
+<h2>Just a student trying to survive...</h2>
 <p>Hi, I'm Bratee Podder, a CS Student @ GeorgiaTech trying to build fun projects!</p>
 
 <div id="header" align="center">
