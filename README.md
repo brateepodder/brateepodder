@@ -1,5 +1,5 @@
 <h1>Just a student trying to survive...</h1>
-<h3>Hi, I'm Bratee Podder, a CS Student @ GeorgiaTech trying to build fun projects!</h3>
+<p>Hi, I'm Bratee Podder, a CS Student @ GeorgiaTech trying to build fun projects!</p>
 
 <div id="header" align="center">
   <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpoc3dhcW1ibXU4NjdwOW9vNGhjbWx1bjBibzU4cHh0ZXFuYWRheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThqZmx3NXJqYmtkcmk4dXc0bzdzbDRkOHF2dWRvbjh3MmZhNzZ3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kLGihj2dYiOAusaN2G/giphy.gif)"
