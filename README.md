@@ -1,5 +1,5 @@
 <div id="header" align="center">
-	<h2>Just a student trying to survive...</h2>
+	<h2>Hey There!</h2>
 	<p>Hi, I'm Bratee Podder, a CS Student @ GeorgiaTech trying to build fun projects!</p>
 </div>
 
