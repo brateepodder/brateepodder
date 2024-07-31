@@ -19,8 +19,10 @@ I have experience in:
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bratee-podder/) or check out my [Portfolio](https://your-portfolio.com).
 
 ## Projects
-<img src="scambuster.png" style="width: 400px; border-radius: 30px;" /> <img src="accelHERate.png" style="width: 400px;" /> 
-<img src="spotifyunwrapped.png" style="width: 400px;"/> <img src="sipandplay.png" style="width: 400px;">
+<a href="https://scambuster7.wordpress.com/"><img src="scambuster.png" style="width: 400px; border-radius: 30px;" /></a>
+<a href="https://empowherhack.vercel.app/"><img src="accelHERate.png" style="width: 400px;" /></a>
+<a href="https://sites.google.com/view/spotify-unwrapped/home"><img src="spotifyunwrapped.png" style="width: 400px;"/> </a>
+<a href="https://sipnplay23457.vercel.app/"><img src="sipandplay.png" style="width: 400px;"></a>
 
 
 ![Footer Image](https://via.placeholder.com/1200x100)
