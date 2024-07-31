@@ -8,6 +8,8 @@ I am a Computer Science student pursuing a Bachelors in Science at Georgia Insti
 
 I also love building projects and attending hackathons in general!
 
+😄 Pronouns: she/her
+
 ## About Me
 
 I have experience in:
@@ -23,10 +25,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bratee-po
 <a href="https://empowherhack.vercel.app/"><img src="accelHERate.png" style="width: 400px;" /></a>
 <a href="https://sites.google.com/view/spotify-unwrapped/home"><img src="spotifyunwrapped.png" style="width: 400px;"/> </a>
 <a href="https://sipnplay23457.vercel.app/"><img src="sipandplay.png" style="width: 400px;"></a>
-
-
-![Footer Image](https://via.placeholder.com/1200x100)
-
 
 <!--
 **brateepodder/brateepodder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
