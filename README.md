@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Header Image](https://via.placeholder.com/1200x300)
+<img src="/linkedinbackground.png" />
 
 ## Hi there! I'm Bratee 👋
 
@@ -19,8 +19,8 @@ I have experience in:
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bratee-podder/) or check out my [Portfolio](https://your-portfolio.com).
 
 ## Projects
-<img src="scambuster.png" style="width: 400px;" /> <img src="accelHERate.png" style="width: 400px;" /> 
-<img src="spotifyunwrapped.png" style="width: 300px;"/> <img src="sipandplay.png" style="width: 300px;">
+<img src="scambuster.png" style="width: 400px; border-radius: 30px;" /> <img src="accelHERate.png" style="width: 400px;" /> 
+<img src="spotifyunwrapped.png" style="width: 400px;"/> <img src="sipandplay.png" style="width: 400px;">
 
 
 ![Footer Image](https://via.placeholder.com/1200x100)
