@@ -19,7 +19,7 @@ I have experience in:
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bratee-podder/) or check out my [Portfolio](https://your-portfolio.com).
 
 ## Projects
-<img src="scambuster.png" style="width: 450px;" /> <img src="accelHERate.png" style="width: 450px;" /> 
+<img src="scambuster.png" style="width: 300px;" /> <img src="accelHERate.png" style="width: 300px;" /> 
 <img src="spotifyunwrapped.png" style="width: 300px;"/> <img src="sipandplay.png" style="width: 300px;">
 
 
