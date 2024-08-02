@@ -18,7 +18,7 @@ I have experience in:
 - **Tools:** Git, Docker, MATLAB, Asana, Jira
 - **Databases:** MySQL, CockroachDB
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bratee-podder/) or check out my [Portfolio](https://your-portfolio.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bratee-podder/) or check out my [Portfolio](http://brateepodder.github.io).
 
 ## Projects
 <a href="https://scambuster7.wordpress.com/"><img src="scambuster.png" style="width: 400px; border-radius: 30px;" /></a>
