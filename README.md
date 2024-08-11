@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-<img src="/linkedinbackground.png" />
+<img src="linkedinbackground.png" />
 
 ## Hi there! I'm Bratee 👋
 
